@@ -110,7 +110,7 @@ header{
 	height: auto;
 }
 .caption{
-	margin: 20px auto;
+	margin: 40px auto;
 	display: flex;
 	flex-direction: column;
 	width: 70%;
